@@ -1,0 +1,38 @@
+.character-container {
+    text-align: center;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    margin: 20px auto;
+}
+
+h1 {
+    color: white;
+}
+
+.character-details {
+    margin-top: 20px;
+}
+
+h2 {
+    color: #0066cc;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-top: 10px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+}
+
+p {
+    margin: 8px 0;
+    color: #666;
+}
+
+p:last-child {
+    margin-bottom: 20px;
+}
